@@ -1,5 +1,5 @@
 # Dungeon based RPG Gaming on Fantom
-## Fantom Inferis 
+## Fantom Inferis - student submission 
 [Deck](https://docs.google.com/presentation/d/1YFK2eTqooQtk1Zaii3f2Bga_QLj0RY36GaWQtnLL0Cg/edit?usp=sharing)
 <p align="center">
    <a href="/">
