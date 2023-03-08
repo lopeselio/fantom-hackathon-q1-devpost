@@ -16,6 +16,13 @@
   <p>View the project demo on <a href="https://youtu.be/ptAr5oj5Ur0">YouTube</a></p>
 </p>
 
+### Verified contracts via Truffle on ftmscan testnet
+*Dungeon Token*
+(https://testnet.ftmscan.com/address/0xf10F9fd0Dd40c934FE5d19CE2Fb32b1b22540bF3#code)[https://testnet.ftmscan.com/address/0xf10F9fd0Dd40c934FE5d19CE2Fb32b1b22540bF3#code]
+
+*Gameplay Contract*
+(https://testnet.ftmscan.com/address/0x297b3faB1FCA36ED56B95E5696C3b27C2a330272#code)[https://testnet.ftmscan.com/address/0x297b3faB1FCA36ED56B95E5696C3b27C2a330272#code]
+
 <h1 align="center">Deeper Dive into the gameplay</h1>
 ### Game 1
 - An RPG game built on the Fantom Blockchain, check the youtube video to view the demo. 
