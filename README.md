@@ -13,7 +13,7 @@
 
   </p>
 
-  <p>View the project demo on <a href="">YouTube</a></p>
+  <p>View the project demo on <a href="https://youtu.be/ptAr5oj5Ur0">YouTube</a></p>
 </p>
 
 <h1 align="center">Deeper Dive into the gameplay</h1>
