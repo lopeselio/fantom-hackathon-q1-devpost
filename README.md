@@ -1,6 +1,9 @@
 # Dungeon based RPG Gaming on Fantom
 ## Fantom Inferis - student submission 
 [Deck](https://docs.google.com/presentation/d/1YFK2eTqooQtk1Zaii3f2Bga_QLj0RY36GaWQtnLL0Cg/edit?usp=sharing)
+
+[View the short 3 min video on devpost here:](https://youtu.be/06o14AzmU8w)
+
 <p align="center">
    <a href="/">
     <img src="https://user-images.githubusercontent.com/43913734/223733277-af59e59f-030b-4789-ba94-dad150b9e7f1.png" alt="Logo" width="240" height="240">
@@ -13,7 +16,7 @@
 
   </p>
 
-  <p>View the project demo on <a href="https://youtu.be/ptAr5oj5Ur0">YouTube</a></p>
+  <p>View the full project demo on <a href="https://youtu.be/ptAr5oj5Ur0">YouTube</a></p>
 </p>
 
 ### Verified contracts via Truffle on ftmscan testnet
