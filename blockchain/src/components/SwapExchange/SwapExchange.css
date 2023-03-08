@@ -1,0 +1,35 @@
+#SwapExchange {
+    width:100vw;
+    height:100vh;
+    background: url("../../assets/swap_exch_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#WidgetContainer {
+    width:500px
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #E3B23C !important;
+}
+
+.swapInfo {
+    color:white;
+    font-size: 4rem;
+    margin-right:3em;
+}
+
+#back {
+    position: absolute;
+    bottom:0;
+    text-align: center;
+    color: rgba(136, 136, 136, 0.87);
+}
+
+#back:hover {
+    color:rgba(245, 245, 245, 0.87);
+}
