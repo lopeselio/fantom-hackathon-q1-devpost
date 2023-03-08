@@ -1,6 +1,6 @@
 # Dungeon based RPG Gaming on Fantom
 ## Fantom Inferis 
-
+[Deck](https://docs.google.com/presentation/d/1YFK2eTqooQtk1Zaii3f2Bga_QLj0RY36GaWQtnLL0Cg/edit?usp=sharing)
 <p align="center">
    <a href="/">
     <img src="https://user-images.githubusercontent.com/43913734/223733277-af59e59f-030b-4789-ba94-dad150b9e7f1.png" alt="Logo" width="240" height="240">
